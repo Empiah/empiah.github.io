@@ -20,10 +20,10 @@
 
 title: Empiah Analysis
 email: your-email@example.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Welcome to Empiah Analysis
+name: Empiah Analysis
+description: ""
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://empiahanalysis.com/" # the base hostname & protocol for your site, e.g. http://example.com
+url: https://empiahanalysis.com # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: EmpiahCapital
 github_username:  Empiah
 
