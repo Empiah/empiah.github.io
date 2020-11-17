@@ -29,7 +29,6 @@ github_username:  Empiah
 
 # Build settings
 theme: minima
-permalink: /:title
 plugins:
   - jekyll-feed
 
