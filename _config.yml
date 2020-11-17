@@ -28,7 +28,7 @@ twitter_username: EmpiahCapital
 github_username:  Empiah
 
 # Build settings
-theme: jekyll-theme-minimal
+theme: minima
 permalink: /:title
 plugins:
   - jekyll-feed
