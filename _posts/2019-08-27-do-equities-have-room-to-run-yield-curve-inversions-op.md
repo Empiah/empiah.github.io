@@ -1,18 +1,7 @@
 ---
-id: 2020
-title: 'Do Equities Have Room to Run? &#8211; Yield Curve Inversions / OP'
+title: 'Do Equities Have Room to Run? Yield Curve Inversions / OP'
 date: 2019-08-27T23:50:30+00:00
-author: empiahanalysis
 layout: post
-guid: http://empiah-analysis.com/?p=2020
-permalink: /?p=2020
-timeline_notification:
-  - "1566949831"
-publicize_twitter_user:
-  - EmpiahCapital
-categories:
-  - Articles
-  - Other Analysis
 ---
 I feel like everything I have read in the last few months has been about the yield curve. It is hard to read research, listen to a podcast or go on twitter for long before I see or hear about the 3 month UST yield heading above the 10 year UST yield (or now the 2Y and 10Y), since it happened back in late March.
 
