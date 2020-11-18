@@ -1,15 +1,7 @@
 ---
-id: 1866
 title: IOTA Primer (Crypto) / OP
 date: 2017-12-06T13:49:43+00:00
-author: empiahanalysis
 layout: post
-guid: http://empiah-analysis.com/?p=1866
-permalink: /?p=1866
-publicize_twitter_user:
-  - ophipps
-categories:
-  - Other Analysis
 ---
 It is impossible to ignore the rise of crypto at the moment, and due to the jump in IOTA in the last 24 hours we wanted to do some research to see how it was different to all the others out there. Below is what we found &#8211; here is the link of the pdf &#8211; [IOTA Primer](https://empiahanalysis.files.wordpress.com/2017/12/iota-primer.pdf "IOTA Primer")
 

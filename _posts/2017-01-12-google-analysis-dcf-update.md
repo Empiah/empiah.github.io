@@ -1,13 +1,7 @@
 ---
-id: 799
 title: 'Google Analysis – DCF: UPDATE / OP'
 date: 2017-01-12T23:39:00+00:00
-author: empiahanalysis
 layout: post
-guid: http://empiah-analysis.com/?p=799
-permalink: /?p=799
-categories:
-  - Fundamental Analysis
 ---
 On December 6th we did some DCF analysis and predicted that the stock price for Alphabet (GOOGL) would go up. You can find the full analysis here:
 

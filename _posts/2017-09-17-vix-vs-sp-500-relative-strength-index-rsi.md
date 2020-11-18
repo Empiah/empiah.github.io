@@ -1,15 +1,7 @@
 ---
-id: 1843
-title: 'VIX vs S&#038;P 500 Relative Strength Index (RSI) / OP'
+title: 'VIX vs S&P 500 Relative Strength Index (RSI) / OP'
 date: 2017-09-17T17:20:57+00:00
-author: empiahanalysis
 layout: post
-guid: http://empiah-analysis.com/?p=1843
-permalink: /?p=1843
-publicize_twitter_user:
-  - ophipps
-categories:
-  - Articles
 ---
 <img loading="lazy" class="alignnone size-full wp-image-1842" src="https://empiahanalysis.files.wordpress.com/2017/09/vix-vs-spx-rsi.png?resize=640%2C315" alt="VIX vs SPX RSI" width="640" height="315" data-recalc-dims="1" />
 

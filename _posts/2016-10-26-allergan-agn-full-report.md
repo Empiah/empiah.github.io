@@ -1,14 +1,7 @@
 ---
-id: 80
 title: Allergan (AGN) Full Report / OP
 date: 2016-10-26T22:35:18+00:00
-author: phippsoli
 layout: post
-guid: http://empiah-analysis.com/?p=80
-permalink: /?p=80
-image: /wp-content/uploads/2016/10/allerganlogo.png
-categories:
-  - Fundamental Analysis
 ---
 [allergan-research-report-empiah-analysis](https://empiahanalysis.files.wordpress.com/2016/10/allergan-research-report-empiah-analysis6.pdf "allergan-research-report-empiah-analysis")
 

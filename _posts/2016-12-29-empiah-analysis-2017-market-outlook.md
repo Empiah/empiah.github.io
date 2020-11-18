@@ -1,15 +1,7 @@
 ---
-id: 672
 title: Empiah Analysis 2017 Market Outlook / OP
 date: 2016-12-29T18:08:00+00:00
-author: empiahanalysis
 layout: post
-guid: http://empiah-analysis.com/?p=672
-permalink: /?p=672
-image: /wp-content/uploads/2016/10/example-design-1200x848.jpeg
-categories:
-  - Articles
-  - Empiah Model Portfolio
 ---
 After what has been an eventful 2016, it is time for investors to look towards next year and position themselves in the world market.
 

@@ -1,14 +1,7 @@
 ---
-id: 331
 title: Watch The Market / OP
 date: 2016-11-10T23:36:21+00:00
-author: empiahanalysis
 layout: post
-guid: http://empiah-analysis.com/?p=331
-permalink: /?p=331
-image: /wp-content/uploads/2016/10/example-design-1200x848.jpeg
-categories:
-  - Articles
 ---
 Before I delve into this &#8211; I want to state that this idea has no real way of working, but instead is an interesting (to me anyway) concept.
 

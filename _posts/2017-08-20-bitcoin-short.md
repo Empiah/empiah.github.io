@@ -1,15 +1,7 @@
 ---
-id: 1762
 title: Bitcoin Short / OP
 date: 2017-08-20T14:39:47+00:00
-author: empiahanalysis
 layout: post
-guid: http://empiah-analysis.com/?p=1762
-permalink: /?p=1762
-publicize_twitter_user:
-  - ophipps
-categories:
-  - Technical Analysis
 ---
 The MACD, RSI and CCI are all showing downtrends at the same time, the last time this happened in June 2017, it led to a downtrend from around 2956 to 1920 (around 35%). I would look for a larger decrease this time, one to around 29870 (-29%) or for a further decrease to around 2390 (-40%). I am looking at these specific areas as they look like have been both support and resistance lines when we look historically. When we use the support line (2390) as the basis for our Fib retracement, we can see that the levels roughly correspond to some of the candles on the way up, and so it may be these levels it would hit and use as a support in the future.
 

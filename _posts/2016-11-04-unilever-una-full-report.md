@@ -1,14 +1,7 @@
 ---
-id: 119
 title: Unilever (UNA) Full Report / OP
 date: 2016-11-04T19:21:26+00:00
-author: empiahanalysis
 layout: post
-guid: http://empiah-analysis.com/?p=119
-permalink: /?p=119
-image: /wp-content/uploads/2016/11/logo.jpeg
-categories:
-  - Fundamental Analysis
 ---
 Full Report: [unilever-research-report-empiah-analysis](https://empiahanalysis.files.wordpress.com/2016/11/unilever-research-report-empiah-analysis1.pdf "unilever-research-report-empiah-analysis")
 

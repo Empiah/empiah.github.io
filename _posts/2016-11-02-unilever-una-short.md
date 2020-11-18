@@ -1,14 +1,7 @@
 ---
-id: 115
 title: Unilever (UNA) Short / OP
 date: 2016-11-02T22:26:46+00:00
-author: empiahanalysis
 layout: post
-guid: http://empiah-analysis.com/?p=115
-permalink: /?p=115
-image: /wp-content/uploads/2016/11/una-tech-0211-1200x663.jpg
-categories:
-  - Technical Analysis
 ---
 A negative pattern was formed on the weekly graph from October 15 to October 16, which led to a downward slope in the price. This price broke the upward sloping support line giving room to further drops in the price level. I would look for this to continue falling to the long-term support line around 36.5 (around fib 0.5). Unilever have come under pressure recently with a drop in their turnover in EM highlighted in their Q3 results, and I see this to continue to be an issue due FX prices making it more expensive to produce goods, with those costs passed onto consumers.
 

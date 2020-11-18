@@ -1,13 +1,7 @@
 ---
-id: 129
-title: 'Hegel&#8217;s Third Triad &#8211; US Presidential Election / OP'
+title: 'Hegels Third Triad: US Presidential Election / OP'
 date: 2016-11-08T23:59:38+00:00
-author: empiahanalysis
 layout: post
-guid: http://empiah-analysis.com/?p=129
-permalink: /?p=129
-categories:
-  - Articles
 ---
 Georg Wilhelm Friedrich Hegel described the relationship between three abstract terms known as the triad &#8211; these terms were; thesis, antithesis and synthesis and were defined in the following way:
 

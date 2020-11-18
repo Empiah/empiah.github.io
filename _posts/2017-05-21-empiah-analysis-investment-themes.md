@@ -1,16 +1,7 @@
 ---
-id: 1497
-title: 'Empiah Analysis  &#8211; Investment Themes / OP'
+title: 'Empiah Analysis: Investment Themes / OP'
 date: 2017-05-21T18:38:04+00:00
-author: empiahanalysis
 layout: post
-guid: http://empiah-analysis.com/?p=1497
-permalink: /?p=1497
-publicize_twitter_user:
-  - ophipps
-categories:
-  - Articles
-  - Empiah Model Portfolio
 ---
 We have mentioned previously some investment themes that Empiah Analysis believes will show profit in the future; and in this article we will talk through these themes.
 

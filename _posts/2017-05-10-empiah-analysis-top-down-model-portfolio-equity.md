@@ -1,16 +1,7 @@
 ---
-id: 1429
-title: 'Empiah Analysis &#8211; Top Down Model Portfolio &#8211; Equity / OP'
+title: 'Empiah Analysis: Top Down Model Portfolio - Equity / OP'
 date: 2017-05-10T18:08:54+00:00
-author: empiahanalysis
 layout: post
-guid: http://empiah-analysis.com/?p=1429
-permalink: /?p=1429
-publicize_twitter_user:
-  - ophipps
-image: /wp-content/uploads/2016/10/example-design-1200x848.jpeg
-categories:
-  - Empiah Model Portfolio
 ---
 Back when we introduced the first model stock portfolio for Empiah Analysis at the end of March, we said that it was a Bottom Up portfolio (BUP). This means that we picked stocks that we liked and thought would perform well regardless of their industry/sector or where they were located in the world. We did not necessarily take note of our Market Outlook at the start of the year when it came to its broad predictions, and we did not look at stocks that were constrained to the buckets we thought would perform well.
 

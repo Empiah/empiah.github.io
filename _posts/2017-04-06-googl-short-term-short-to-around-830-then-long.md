@@ -1,15 +1,7 @@
 ---
-id: 1261
-title: 'GOOGL &#8211; Short Term Short to around 830, then Long / OP'
+title: 'GOOGL: Short Term Short to around 830, then Long / OP'
 date: 2017-04-06T22:25:01+00:00
-author: empiahanalysis
 layout: post
-guid: http://empiah-analysis.com/?p=1261
-permalink: /?p=1261
-publicize_twitter_user:
-  - ophipps
-categories:
-  - Technical Analysis
 ---
 Alphabet is showing us a number of technical patterns and is indicating that it is looking to go short in the near future.
 

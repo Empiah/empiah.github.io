@@ -1,13 +1,7 @@
 ---
-id: 645
-title: 'Google Analysis &#8211; DCF / OP'
+title: 'Google Analysis: DCF / OP'
 date: 2016-12-06T23:11:35+00:00
-author: empiahanalysis
 layout: post
-guid: http://empiah-analysis.com/?p=645
-permalink: /?p=645
-categories:
-  - Fundamental Analysis
 ---
 The following report is based upon a Discounted Cash Flow Analysis of Google, using data sourced from Google&#8217;s 2015 10-K, and the Google Finance website.
 

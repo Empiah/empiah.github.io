@@ -1,17 +1,7 @@
 ---
-id: 890
-title: 'Empiah Analysis Market Outlook &#8211;  Review / OP'
+title: 'Empiah Analysis Market Outlook: Review / OP'
 date: 2017-02-21T21:21:34+00:00
-author: empiahanalysis
 layout: post
-guid: http://empiah-analysis.com/?p=890
-permalink: /?p=890
-publicize_twitter_user:
-  - ophipps
-image: /wp-content/uploads/2016/10/example-design-1200x848.jpeg
-categories:
-  - Articles
-  - Empiah Model Portfolio
 ---
 At the back end of 2016 Empiah Analysis wrote a market outlook for 2017; in this article we will revisit how our predictions have fared so far this year. You can find the original post [here](https://empiah-analysis.com/2016/12/29/empiah-analysis-2017-market-outlook/).
 

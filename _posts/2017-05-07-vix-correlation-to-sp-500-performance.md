@@ -1,16 +1,7 @@
 ---
-id: 1345
-title: 'VIX Correlation to S&#038;P 500 Performance / OP'
+title: 'VIX Correlation to S&P 500 Performance / OP'
 date: 2017-05-07T22:44:08+00:00
-author: empiahanalysis
 layout: post
-guid: http://empiah-analysis.com/?p=1345
-permalink: /?p=1345
-publicize_twitter_user:
-  - ophipps
-categories:
-  - Articles
-  - Correlation
 ---
 One of the posts that did recently was around the correlation between Tube delays in London and the subsequent returns of some major stock indices. Whilst we did find some correlation it is obvious that this is extremely random. As we looked to do some more correlation type exercises there seemed to be one that jumped right out at us, and that was the relationship between the VIX and S&P 500
 

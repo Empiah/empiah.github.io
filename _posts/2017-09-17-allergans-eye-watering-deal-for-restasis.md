@@ -1,15 +1,7 @@
 ---
-id: 1791
-title: 'Allergan&#8217;s Eye Watering Deal for Restasis / OP'
+title: 'Allergan's Eye Watering Deal for Restasis / OP'
 date: 2017-09-17T12:15:09+00:00
-author: empiahanalysis
 layout: post
-guid: http://empiah-analysis.com/?p=1791
-permalink: /?p=1791
-publicize_twitter_user:
-  - ophipps
-categories:
-  - Articles
 ---
 For anyone that follows Allergan, it is clear how much the company relies on Restasis, its dry-eye drug that is second only to Botox in terms of revenue generating products.
 

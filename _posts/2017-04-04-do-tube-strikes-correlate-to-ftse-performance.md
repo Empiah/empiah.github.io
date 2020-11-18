@@ -1,17 +1,7 @@
 ---
-id: 1121
 title: Do Tube Strikes Correlate to FTSE Performance? / OP
 date: 2017-04-04T19:39:06+00:00
-author: empiahanalysis
 layout: post
-guid: http://empiah-analysis.com/?p=1121
-permalink: /?p=1121
-publicize_twitter_user:
-  - ophipps
-image: /wp-content/uploads/2016/10/example-design-1200x848.jpeg
-categories:
-  - Articles
-  - Correlation
 ---
 As you may know there are many firms, for example Renaissance Technologies, that look to ingest all kinds of numbers and see if there is any correlation between the data and the performance of stocks or indexes. Essentially, instead of having hundreds of &#8216;CFA&#8217; research analysts going through 10-K&#8217;s, they have hundreds of PhD&#8217;s writing code that goes into the big black box in the corner of the room. The kind of data that they feed the machine is extremely varied and one commonly used example is regarding the weather in France and the CAC performance. This method of investing is clearly very profitable, with the secretive &#8216;Medallion&#8217; fund being one of the best performing funds around.
 

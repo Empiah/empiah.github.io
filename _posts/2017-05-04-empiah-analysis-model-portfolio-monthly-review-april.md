@@ -1,16 +1,7 @@
 ---
-id: 1265
-title: 'Empiah Analysis &#8211; Bottom Up Model Portfolio Monthly Review &#8211; April / OP'
+title: 'Empiah Analysis: Bottom Up Model Portfolio Monthly Review - April / OP'
 date: 2017-05-04T23:08:21+00:00
-author: empiahanalysis
 layout: post
-guid: http://empiah-analysis.com/?p=1265
-permalink: /?p=1265
-publicize_twitter_user:
-  - ophipps
-image: /wp-content/uploads/2016/10/example-design-1200x848.jpeg
-categories:
-  - Empiah Model Portfolio
 ---
 Last month we introduced our the Empiah Portfolio model portfolio and said that we would actively monitor, track and update the portfolio according to our internal preferences. This is the first monthly review and here we will talk through the performance, holdings and trading activity.
 

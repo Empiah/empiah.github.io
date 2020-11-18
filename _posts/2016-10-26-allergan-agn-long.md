@@ -1,14 +1,7 @@
 ---
-id: 76
 title: Allergan (AGN) Long / OP
 date: 2016-10-26T22:30:08+00:00
-author: phippsoli
 layout: post
-guid: http://empiah-analysis.com/?p=76
-permalink: /?p=76
-image: /wp-content/uploads/2016/10/agn-261016-1200x658.jpg
-categories:
-  - Technical Analysis
 ---
 Allergan stock has been volatile since the merger with Pfizer was abandoned due to Tax Inversion laws back in April 2016. After a April-August Pattern was successful in predicting a downtrend, there has been an emergence of a bullish pattern. Looking purely at technicals I see the stock hitting the 0.236 fib retracement before the earnings call scheduled for 2nd November. I would then look for a rebound up towards the trend line to the 0.382 fib retracement; and if that is broken then I would look for it to test the July highs at fib 0.618. When you take into account the fundamentals, and the companies trend of positive earnings surprises I believe this stock shows potential.
 

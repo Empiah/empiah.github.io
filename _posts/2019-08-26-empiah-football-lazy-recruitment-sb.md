@@ -1,17 +1,7 @@
 ---
-id: 2008
-title: 'Empiah Football &#8211; Lazy Recruitment / SB'
+title: 'Empiah Football: Lazy Recruitment / SB'
 date: 2019-08-26T21:40:24+00:00
-author: empiahanalysis
 layout: post
-guid: http://empiah-analysis.com/?p=2008
-permalink: /?p=2008
-timeline_notification:
-  - "1566855625"
-publicize_twitter_user:
-  - EmpiahCapital
-categories:
-  - Football
 ---
 This is the first instalment of what will be a regular addition to the site, where we will look at football, both from a general and a data analytics perspective.
 

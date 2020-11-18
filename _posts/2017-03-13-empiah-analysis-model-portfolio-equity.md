@@ -1,16 +1,7 @@
 ---
-id: 973
-title: 'Empiah Analysis Model Portfolio &#8211; Fund of Funds / OP'
+title: 'Empiah Analysis Model Portfolio: Fund of Funds / OP'
 date: 2017-03-13T19:09:48+00:00
-author: empiahanalysis
 layout: post
-guid: http://empiah-analysis.com/?p=973
-permalink: /?p=973
-publicize_twitter_user:
-  - ophipps
-image: /wp-content/uploads/2016/10/example-design-1200x848.jpeg
-categories:
-  - Empiah Model Portfolio
 ---
 We have written previously about our market outlook for 2017 and we included some Index&#8217;s and ETF&#8217;s which represented what we thought would do well this year &#8211; we have used the daily close of these instruments, and based the returns to 100 at the start of 2017. The results seen below are the outcome, and we can see that so far we have done well, beating the S&P 500 as at COB 10th March 2017.
 

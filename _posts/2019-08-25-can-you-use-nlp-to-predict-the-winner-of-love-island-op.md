@@ -1,18 +1,7 @@
 ---
-id: 1940
 title: Can you use NLP to predict the winner of Love Island? / OP
 date: 2019-08-25T19:01:28+00:00
-author: empiahanalysis
 layout: post
-guid: http://empiah-analysis.com/?p=1940
-permalink: /?p=1940
-publicize_twitter_user:
-  - ophipps
-timeline_notification:
-  - "1566759719"
-categories:
-  - Other Analysis
-  - Python
 ---
 [Love Island](https://www.itv.com/loveisland) was kind of unavoidable&#8230;. if you weren&#8217;t personally watching it, WhatsApp groups or workplaces were full of people talking about the latest goings-on, whether it be a new islander, challenge or the most recent scandal ([scripted or not](https://www.express.co.uk/showbiz/tv-radio/1141554/Love-Island-2019-Is-Love-Island-2019-scripted-set-up-ITV)).
 
