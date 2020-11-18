@@ -1,15 +1,7 @@
 ---
-id: 1712
 title: Empiah Analysis – Model Portfolio Monthly Review – July / OP
 date: 2017-08-04T06:59:31+00:00
-author: empiahanalysis
 layout: post
-guid: http://empiah-analysis.com/?p=1712
-permalink: /?p=1712
-publicize_twitter_user:
-  - ophipps
-categories:
-  - Empiah Model Portfolio
 ---
 It has been a while since anything has been posted here, which I will blame on the fact that I am in the middle of studying for exams at the moment&#8230; but I do have plans to start posting more soon.
 

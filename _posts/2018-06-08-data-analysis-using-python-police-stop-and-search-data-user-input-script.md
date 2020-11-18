@@ -1,18 +1,7 @@
 ---
-id: 1884
-title: 'Data Analysis using Python &#8211; Police Stop and Search Data &#8211; User Input Script / OP'
+title: 'Data Analysis using Python: Police Stop and Search Data - User Input Script / OP'
 date: 2018-06-08T08:47:00+00:00
-author: empiahanalysis
 layout: post
-guid: http://empiah-analysis.com/?p=1884
-permalink: /?p=1884
-timeline_notification:
-  - "1528448688"
-publicize_twitter_user:
-  - ophipps
-categories:
-  - Other Analysis
-  - Python
 ---
 Below is a user input script based upon some data analysis done on Police Stop and Search data &#8211; the original analysis was performed in Jupyter Notebooks and can be found [here](https://github.com/Empiah/LondonCrimeStats/blob/master/London_Crime_Statistics.ipynb).
 

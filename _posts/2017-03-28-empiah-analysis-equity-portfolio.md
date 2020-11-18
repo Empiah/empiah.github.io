@@ -1,15 +1,7 @@
 ---
-id: 1079
-title: 'Empiah Analysis &#8211; Bottom Up Model Portfolio &#8211; Equity / OP'
+title: 'Empiah Analysis; Bottom Up Model Portfolio - Equity / OP'
 date: 2017-03-28T23:54:12+00:00
-author: empiahanalysis
 layout: post
-guid: http://empiah-analysis.com/?p=1079
-permalink: /?p=1079
-publicize_twitter_user:
-  - ophipps
-categories:
-  - Empiah Model Portfolio
 ---
 Empiah Analysis has put together a portfolio of holdings which we believe are well placed to perform strongly in the market. Our holdings have been picked in a bottom-up style manner, meaning that have been selected based upon their individual merits. It is however clear that the sectors mentioned in our Market Outlook are represented heavily.
 

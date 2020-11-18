@@ -1,14 +1,7 @@
 ---
-id: 426
-title: 'ESG Investing &#8211; Investors are not just looking for a warm fuzzy feeling / OP'
+title: 'ESG Investing: Investors are not just looking for a warm fuzzy feeling / OP'
 date: 2016-11-22T00:57:49+00:00
-author: empiahanalysis
 layout: post
-guid: http://empiah-analysis.com/?p=426
-permalink: /?p=426
-image: /wp-content/uploads/2016/10/example-design-1200x848.jpeg
-categories:
-  - Articles
 ---
 ESG (Environmental, Social & Governance) Investing has become huge over the past year or so, with many new funds being launched with ESG in mind.
 

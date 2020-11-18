@@ -1,13 +1,7 @@
 ---
-id: 219
 title: Will There Be Hell Toupée? US Presidential Election / OP
 date: 2016-11-10T07:39:16+00:00
-author: empiahanalysis
 layout: post
-guid: http://empiah-analysis.com/?p=219
-permalink: /?p=219
-categories:
-  - Articles
 ---
 **&#8220;Those who have the knowledge, don&#8217;t predict. Those who predict, don&#8217;t have the knowledge&#8221; &#8211; **_Lao Tzu &#8211; Chinese Poet &#8211; 6th Century BC_
 

@@ -1,18 +1,7 @@
 ---
-id: 1872
-title: 'TFL Tube Histogram &#8211; Python / OP'
+title: 'TFL Tube Histogram: Python / OP'
 date: 2018-04-09T22:58:30+00:00
-author: empiahanalysis
 layout: post
-guid: http://empiah-analysis.com/?p=1872
-permalink: /?p=1872
-timeline_notification:
-  - "1523314711"
-publicize_twitter_user:
-  - ophipps
-categories:
-  - Other Analysis
-  - Python
 ---
 It has been a while since I have posted on here, partly due to a period of rest after the CFA L1 exam, but mainly due to the fact that I have been learning how to code using [Python](https://www.python.org/).
 

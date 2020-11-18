@@ -1,19 +1,7 @@
 ---
-id: 1877
-title: 'Data Analysis using Python &#8211; Football Betting / OP'
+title: 'Data Analysis using Python: Football Betting / OP'
 date: 2018-06-04T22:32:48+00:00
-author: empiahanalysis
 layout: post
-guid: http://empiah-analysis.com/?p=1877
-permalink: /?p=1877
-publicize_twitter_user:
-  - ophipps
-timeline_notification:
-  - "1528151571"
-categories:
-  - Football
-  - Other Analysis
-  - Python
 ---
 The original can be found on GitHub, [here](https://github.com/Empiah/FootballBetting---DAND/blob/master/Betting%20Trends%20in%20Football.ipynb).
 

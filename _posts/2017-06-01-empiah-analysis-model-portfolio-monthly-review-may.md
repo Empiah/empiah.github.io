@@ -1,16 +1,7 @@
 ---
-id: 1677
 title: 'Empiah Analysis –  Model Portfolio Monthly Review – May / OP'
 date: 2017-06-01T19:15:20+00:00
-author: empiahanalysis
 layout: post
-guid: http://empiah-analysis.com/?p=1677
-permalink: /?p=1677
-publicize_twitter_user:
-  - ophipps
-image: /wp-content/uploads/2016/10/example-design-1200x848.jpeg
-categories:
-  - Empiah Model Portfolio
 ---
 Please see below for the monthly review for both portfolios for the month of May.
 

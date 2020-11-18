@@ -1,16 +1,7 @@
 ---
-id: 995
-title: 'Making money from Bank Fines? &#8211; Bank Fine Swap (BFS) / OP'
+title: 'Making money from Bank Fines? Bank Fine Swap (BFS) / OP'
 date: 2017-03-24T16:56:26+00:00
-author: empiahanalysis
 layout: post
-guid: http://empiah-analysis.com/?p=995
-permalink: /?p=995
-publicize_twitter_user:
-  - ophipps
-image: /wp-content/uploads/2016/10/example-design-1200x848.jpeg
-categories:
-  - Articles
 ---
 It seems almost a given now that each year, banks will shell out billions in fines for breaking various laws in different countries. As a matter of fact there have been around $300 billion in fines since the global financial crisis, and there is no indication that banks will start to behave themselves any time soon.<img loading="lazy" class="alignnone size-full wp-image-1001" src="https://empiahanalysis.files.wordpress.com/2017/03/atlas_bjc0tal9e2x.png?resize=640%2C366" alt="atlas_BJC0taL9e@2x" width="640" height="366" data-recalc-dims="1" />
 

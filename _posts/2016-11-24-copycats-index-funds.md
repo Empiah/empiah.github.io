@@ -1,14 +1,7 @@
 ---
-id: 516
 title: Copycat Funds / OP
 date: 2016-11-24T22:29:44+00:00
-author: empiahanalysis
 layout: post
-guid: http://empiah-analysis.com/?p=516
-permalink: /?p=516
-image: /wp-content/uploads/2016/10/example-design-1200x848.jpeg
-categories:
-  - Articles
 ---
 Quite simply as the name suggests, index funds are funds with a portfolio constructed to match or track that of a market index &#8211; therefore they are labelled as being passively managed. This market index might be the S&P 500, the Russell 2000 index and I am sure you could find one that tracks the Dow Jones Summer/Winter Games Index (index of corporations sponsoring the Summer and Winter Olympics).
 
