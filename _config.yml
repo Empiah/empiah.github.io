@@ -1,9 +1,17 @@
 
+# Dependencies
+plugins: [jekyll-paginate]
+excerpt_separator: <!--more-->
+
+# Permalinks
+permalink:        /:year/:month/:day/:title/
+
+
 # Setup
 title: Empiah Analysis
 tagline: 'welcome to Empiah Analysis'
 description: 'welcome to Empiah Analysis'
-baseurl: "" 
+baseurl: 
 url: https://empiahanalysis.com 
 
 #twitter_username: EmpiahCapital
@@ -15,7 +23,6 @@ author:
   name:           'Empiah'
   url:            https://twitter.com/EmpiahCapital
 
-  paginate:         5
 
 # Custom vars
 version:          2.1.0
@@ -23,8 +30,7 @@ version:          2.1.0
 github:
   repo:           https://github.com/Empiah
 
-# Dependencies
-plugins: [jekyll-paginate]
-excerpt_separator: <!--more-->
 
+  #Structure
+  paginate:         5
 
