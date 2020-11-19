@@ -26,7 +26,5 @@ github:
 # Dependencies
 plugins: [jekyll-paginate]
 excerpt_separator: <!--more-->
-markdown:         redcarpet
-highlighter:      pygments
 
 
