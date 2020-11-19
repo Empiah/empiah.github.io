@@ -1,6 +1,5 @@
 ---
 title: 'Do Equities Have Room to Run? Yield Curve Inversions / OP'
-date: 2019-08-27T23:50:30+00:00
 layout: post
 ---
 I feel like everything I have read in the last few months has been about the yield curve. It is hard to read research, listen to a podcast or go on twitter for long before I see or hear about the 3 month UST yield heading above the 10 year UST yield (or now the 2Y and 10Y), since it happened back in late March.
