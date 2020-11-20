@@ -2,6 +2,10 @@
 # Dependencies
 plugins: [jekyll-paginate] 
 
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
 # Setup
 title: Empiah Analysis
 tagline: 'welcome to Empiah Analysis'
@@ -9,11 +13,12 @@ description: 'welcome to Empiah Analysis'
 url: 'https://empiah.github.io'
 baseurl:  /
 
-
 author:
   name:           'Empiah'
   url:            'https://twitter.com/EmpiahCapital'
 
+#Structure
+paginate:         5
 
 # Custom vars
 version:          2.1.0
@@ -21,7 +26,4 @@ version:          2.1.0
 github:
   repo:           'https://github.com/Empiah'
 
-
-  #Structure
-  paginate:         5
 
