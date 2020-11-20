@@ -6,7 +6,7 @@
           {{ site.title }}
         </a>
       </h1>
-      <img src="{{ site.url }}public/profile_picture.png" alt="hi" class="inline"/>
+      <img src='{{"/public/profile_picture.png" | absolute_url}}'>
       <p class="lead">{{ site.description }}</p>
     </div>
 
