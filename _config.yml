@@ -2,6 +2,9 @@
 # Dependencies
 plugins: [jekyll-paginate] 
 
+#Analytics
+google_analytics: G-4D0K8562XT
+
 # Permalinks
 permalink:        pretty
 
