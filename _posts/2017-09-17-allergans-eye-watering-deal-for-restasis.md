@@ -1,5 +1,5 @@
 ---
-title: 'Allergan's Eye Watering Deal for Restasis / OP'
+title: 'Allergans Eye Watering Deal for Restasis / OP'
 date: 2017-09-17T12:15:09+00:00
 layout: post
 ---
