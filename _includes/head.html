@@ -31,7 +31,14 @@
   <!-- RSS -->
   <link rel="alternate" type="application/rss+xml" title="RSS" href="/atom.xml">
 
-  {% if site.google_analytics}
-  {% include analytics.html %}
-  {% endif %}
+  
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-4D0K8562XT"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-4D0K8562XT');
+  </script>
+  
 </head>
